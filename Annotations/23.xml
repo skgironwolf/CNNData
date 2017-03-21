@@ -18,6 +18,18 @@
       <depth>3</depth>
    </size>
    <segmented>0</segmented>
+      <object>
+      <name>roost</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>384</xmin>
+         <ymin>186</ymin>
+         <xmax>414</xmax>
+         <ymax>216</ymax>
+      </bndbox>
+   </object>
    <object>
       <name>roost</name>
       <pose>Unspecified</pose>
@@ -28,6 +40,30 @@
          <ymin>374</ymin>
          <xmax>263</xmax>
          <ymax>416</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>roost</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>167</xmin>
+         <ymin>144</ymin>
+         <xmax>221</xmax>
+         <ymax>198</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>roost</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>373</xmin>
+         <ymin>174</ymin>
+         <xmax>409</xmax>
+         <ymax>210</ymax>
       </bndbox>
    </object>
 </annotation>

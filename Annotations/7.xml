@@ -30,4 +30,16 @@
          <ymax>191</ymax>
       </bndbox>
    </object>
+   <object>
+      <name>roost</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>373</xmin>
+         <ymin>186</ymin>
+         <xmax>400</xmax>
+         <ymax>213</ymax>
+      </bndbox>
+   </object>
 </annotation>
