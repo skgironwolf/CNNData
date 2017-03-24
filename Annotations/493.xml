@@ -24,10 +24,58 @@
       <truncated>0</truncated>
       <difficult>0</difficult>
       <bndbox>
+         <xmin>312</xmin>
+         <ymin>297</ymin>
+         <xmax>348</xmax>
+         <ymax>333</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>roost</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>210</xmin>
+         <ymin>184</ymin>
+         <xmax>258</xmax>
+         <ymax>232</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>roost</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>396</xmin>
+         <ymin>156</ymin>
+         <xmax>450</xmax>
+         <ymax>210</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>roost</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
          <xmin>184</xmin>
          <ymin>328</ymin>
          <xmax>223</xmax>
          <ymax>367</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>roost</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>250</xmin>
+         <ymin>115</ymin>
+         <xmax>325</xmax>
+         <ymax>190</ymax>
       </bndbox>
    </object>
 </annotation>
